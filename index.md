@@ -40,7 +40,7 @@ layout: default
 # 制作物
 ### 書籍紛失検知システム
 **ファイルの場所**:
-./file/book
+[./file/book](https://github.com/sen5q/portfolio/tree/main/file/book)
 
 **使用技術**:
 Python, MeCab, GCP(Vision API, Books API)
