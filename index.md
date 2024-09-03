@@ -56,7 +56,7 @@ Python, MeCab, GCP(Vision API, Books API)
 
 ### Web勤怠自動入カツール
 **ファイルの場所**:
-GitHub/sen5q/webkintal
+[GitHub/sen5q/webkintal](https://github.com/sen5q/webkintai)
 
 **使用技術**:
 Auto Hot Key
@@ -74,7 +74,7 @@ Auto Hot Key
 
 ### 「yyyymmdd(曜)」形式のフォルダを開くバッチスクリプト
 **ファイルの場所**:
-./file/opendailyfile.bat
+[./file/opendailyfile.bat](https://github.com/sen5q/portfolio/blob/main/file/opendailyfile.bat)
 
 **使用技術**:
 Windows スクリプト
@@ -89,7 +89,7 @@ Windows スクリプト
 ### SwitchBot 製品をPCから制御するプログラム
 
 **ファイルの場所**:
-GitHub/sen5q/switchbot-for-pc
+[GitHub/sen5q/switchbot-for-pc](https://github.com/sen5q/switchbot-for-pc)
 
 **使用技術**
 Python, SwitchBot API
@@ -107,7 +107,7 @@ airconditioner.py と実行するとエアコンを操作することができ�
 
 ### SNSリンクまとめページ
 **ファイルの場所**:
-./file/hp
+[./file/hp](https://github.com/sen5q/portfolio/tree/main/file/hp)
 
 **使用技術**:
 HTML, CSS
@@ -121,7 +121,7 @@ HTML, CSS
 
 ### ボイスチャンネルのユーザーをまとめて移動させるDiscord Bot
 **ファイルの場所**:
-./file/discord
+[./file/discord](https://github.com/sen5q/portfolio/tree/main/file/discord)
 
 **使用技術**:
 Python, Discord, Linux
@@ -142,10 +142,10 @@ Linuxベースのレンタルサーバーを借りてファイルをアップロ
 Botは常時実行状態にしています。
 
 # その他活動
-### 競技プログラミング
-**アカウント**: AtCoder
+### 競技プログラミング AtCoder
+**アカウント**: [qafu](https://atcoder.jp/users/qafu)
 
-**ファイル管理**: GitHub/sen5q/atcoder
+**ファイル管理**: [GitHub/sen5q/atcoder](https://github.com/sen5q/atcoder)
 
 # 連絡先
 t.sen5q@gmail.com
